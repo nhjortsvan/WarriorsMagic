@@ -1,0 +1,2 @@
+# WarriorsMagic
+GitHub Pages
